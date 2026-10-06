@@ -20,7 +20,7 @@ O objetivo deste projeto consiste no desenvolvimento de uma página web estátic
 
 O **TechNews Today** é um site simples de notícias sobre tecnologia. 
 Ele conta com:
-* Cabeçalho fixo com efeito de vidro embaçado (*glassmorphism*)].
+* Cabeçalho fixo com efeito de vidro embaçado.
 * Título colorido em gradiente.
 * Card de notícia em destaque com botão de "Leia mais" interativo.
 * Layout adaptável que posiciona os itens lado a lado no computador.
